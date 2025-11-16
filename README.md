@@ -1,4 +1,4 @@
-![20230214_151251](https://github.com/user-attachments/assets/0617390b-0092-4dc7-ab9a-05cd9eacc995)Bu Kodda Esp-32 Cyd ile Bluetooth Haberleşmesi'ile Hc-05 Bluetooth a veri göndererek 5V Röle ile 220V Kontaktörü kullanarak 1.5Kw Dalgıç Su Pompası Çalıştırmak.
+Bu Kodda Esp-32 Cyd ile Bluetooth Haberleşmesi'ile Hc-05 Bluetooth a veri göndererek 5V Röle ile 220V Kontaktörü kullanarak 1.5Kw Dalgıç Su Pompası Çalıştırmak.
 
 Platfor IO ile Visual Studio Code ile yazılmış tır
 
